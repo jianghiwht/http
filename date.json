@@ -1,17 +1,17 @@
 {
 
         "tea": {
-            "message": "made in china genshin tea",
+            "message": "广西特产派蒙牌龙井茶",
             "status": "success",
             "hanle": "",
             "TEA": "paimengtea",
             "dat": {
                 "value": "00012789224234",
-                "产地": "china",
+                "产地": "广西",
                 "时间": "2025-03-06",
                 "产品等级": "宇宙特一级",
                 "是否带有国家地理标识": "否",
-                "产地信息": "china xx市xx县xx镇 xx合作社",
+                "产地信息": "广西壮族自治区南宁市xx县xx镇 xx合作社",
                 "none": "0x00fx, true,0xffxa,from tea"
             }
         },
