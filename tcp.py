@@ -76,7 +76,10 @@ if __name__ == "__main__":
         _back=AcceptMessage(jiekou)
         message_=Json_answer(_back)
         SeendThemessage(jiekou,message_)
-        time.sleep(1)
-        time.sleep(0.5)
-        jiekou.close()
+        time.sleep(2)
+        jiekou.close()#这是断开连接的关键。如果不需要可以删除/This is the key to disconnecting. If not needed, delete it.
+
+
+
+# the writer country is china  ,so "print"or "#" follow if Chinese， please translation 。
 
